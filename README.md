@@ -2,11 +2,11 @@
 
 # Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints
 
-<a href="https://arxiv.org/pdf/2506.09859"><img src='https://img.shields.io/badge/PDF-Arxiv-brightgreen' alt='PDF'></a> <a href="https://www.bilibili.com/"><img src='https://img.shields.io/badge/Video-Bilibili-blue' alt='youtube'></a>
+<a href="https://arxiv.org/abs/2506.09859"><img src='https://img.shields.io/badge/PDF-Arxiv-brightgreen' alt='PDF'></a> <a href="https://www.bilibili.com/video/BV166MizgEht/?vd_source=a658930295bb4510212c5c979d654d61"><img src='https://img.shields.io/badge/Video-Bilibili-blue' alt='youtube'></a>
 
 ## TODO list
 
-- [x] Release the [arXiv paper](https://arxiv.org/pdf/2506.09859) in June, 2025.
+- [x] Release the [arXiv paper](https://arxiv.org/abs/2506.09859) in June, 2025.
 - [ ] Release the training and evaluation code
 - [ ] Release the ros wrapper.
 
@@ -28,7 +28,7 @@ This paper proposes **three key techniques** that effectively address the perfor
 |  ![mask](./assets/1578_mask.gif)  |      ![ours](./assets/1578_mask_pl.gif)       |
 |          Better decision          | Better performance and inter-frame continuity |
 
-Real world demonstrations are available on the [video](https://www.bilibili.com/).
+Real world demonstrations are available on the [video](https://www.bilibili.com/video/BV166MizgEht/?vd_source=a658930295bb4510212c5c979d654d61).
 
 ## Citation
 
