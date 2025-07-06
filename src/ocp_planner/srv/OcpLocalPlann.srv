@@ -1,0 +1,10 @@
+ocp_planner/JointState ob
+ocp_planner/Point sub_goal
+
+---
+bool success
+float64 al
+float64 ar
+ocp_planner/Point revised_goal
+ocp_planner/Point[] astar_path
+ocp_planner/ControlVar[] control_vars

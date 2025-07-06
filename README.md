@@ -7,7 +7,7 @@
 ## TODO list
 
 - [x] Release the [arXiv paper](https://arxiv.org/abs/2506.09859) in June, 2025.
-- [ ] Release the training and evaluation code
+- [x] Release the training and evaluation code
 - [ ] Release the ros wrapper.
 
 ## Abstract
@@ -29,6 +29,10 @@ This paper proposes **three key techniques** that effectively address the perfor
 |          Better decision          | Better performance and inter-frame continuity |
 
 Real world demonstrations are available on the [video](https://www.bilibili.com/video/BV166MizgEht/?vd_source=a658930295bb4510212c5c979d654d61).
+
+## How to Run
+[Use](./assets/Run.md)
+
 
 ## Citation
 

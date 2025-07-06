@@ -192,3 +192,25 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# PyPI configuration file
+.pypirc
+src/ocp_planner/extern/*
+build/*
+devel/*
+log/*
+src/CMakeLists.txt
+
+drl_moudle/__pycache__/
+drl_moudle/*/__pycache__/
+drl_moudle/modules/*/__pycache__/
+drl_moudle/crowd_sim/*/__pycache__/
+drl_moudle/crowd_sim/envs/*/__pycache__/
+drl_moudle/algorithms/__pycache__/*
+drl_moudle/train_data/*
+drl_moudle/eval_data/*
+drl_moudle/images/*
+
+src/*.so
+
+.catkin_workspace
