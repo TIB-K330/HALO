@@ -3,6 +3,7 @@
 # Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints
 
 <a href="https://arxiv.org/abs/2506.09859"><img src='https://img.shields.io/badge/PDF-Arxiv-brightgreen' alt='PDF'></a> <a href="https://www.bilibili.com/video/BV166MizgEht/?vd_source=a658930295bb4510212c5c979d654d61"><img src='https://img.shields.io/badge/Video-Bilibili-blue' alt='youtube'></a>
+<a href="https://www.youtube.com/watch?v=oymtbh-l1eM"><img src='https://img.shields.io/badge/Video-Youtube-blue' alt='youtube'></a>
 
 ## TODO list
 
@@ -28,7 +29,7 @@ This paper proposes **three key techniques** that effectively address the perfor
 |  ![mask](./assets/1578_mask.gif)  |      ![ours](./assets/1578_mask_pl.gif)       |
 |          Better decision          | Better performance and inter-frame continuity |
 
-Real world demonstrations are available on the [video](https://www.bilibili.com/video/BV166MizgEht/?vd_source=a658930295bb4510212c5c979d654d61).
+Real world demonstrations are available on the [Bilibili](https://www.bilibili.com/video/BV166MizgEht/?vd_source=a658930295bb4510212c5c979d654d61),[Youtube](https://www.youtube.com/watch?v=oymtbh-l1eM).
 
 ## How to Run
 [Use](./assets/Run.md)
